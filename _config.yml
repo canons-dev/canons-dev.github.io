@@ -18,11 +18,11 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : # does not include hostname
-title   : Your Site Title
+url     : https://www.canons.dev
+baseurl : /
+title   : The Canonical App
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  Description Coming soon!
 
 
 ## => Language and Timezone
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: canons-dev/www
 repository_tree: master
 
 
